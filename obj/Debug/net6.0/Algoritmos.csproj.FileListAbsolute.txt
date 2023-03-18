@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\Algoritmos\bin\Debug\net6.0\Algoritmos.exe
+C:\inetpub\wwwroot\Algoritmos\bin\Debug\net6.0\Algoritmos.deps.json
+C:\inetpub\wwwroot\Algoritmos\bin\Debug\net6.0\Algoritmos.runtimeconfig.json
+C:\inetpub\wwwroot\Algoritmos\bin\Debug\net6.0\Algoritmos.dll
+C:\inetpub\wwwroot\Algoritmos\bin\Debug\net6.0\Algoritmos.pdb
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.AssemblyInfo.cs
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.dll
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\refint\Algoritmos.dll
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.pdb
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\Algoritmos.genruntimeconfig.cache
+C:\inetpub\wwwroot\Algoritmos\obj\Debug\net6.0\ref\Algoritmos.dll
